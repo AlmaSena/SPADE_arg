@@ -12,11 +12,13 @@ Purpose and Scope
 * Documentation: link por hacer
 * SPADE: https://spadeagents.eu
 
-## Features
+Features
+-----------------
 
 - **Node Creation and Management**: Agents can create, delete, and purge nodes on a PubSub server, allowing flexible management of communication channels.
 
-## Credits
+Credits
+-----------------
 
 This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
