@@ -1,8 +1,11 @@
-# SPADE Argumentative
+============
+SPADE Argumentative
+============
 
 SPADE Argumentative is a plugin that extends the reasoning capabilities of SPADE (Smart Python Agent Development Environment) by integrating argument mining techniques and argumentative debate. It implements a multi-agent system in which autonomous agents exchange arguments from opposing perspectives to explore a question, evaluate different viewpoints, and synthesise the resulting discussion into a single, coherent answer.
 
-## Purpose and Scope
+Purpose and Scope
+-----------------
 
 * Free software: MIT license
 * Web: https://spadeagents.eu/plugins/...
