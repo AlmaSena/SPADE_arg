@@ -11,7 +11,7 @@ SPADE Argumentative is a plugin that extends the reasoning capabilities of SPADE
 
 ## Features
 
-
+- **Node Creation and Management**: Agents can create, delete, and purge nodes on a PubSub server, allowing flexible management of communication channels.
 
 ## Credits
 
