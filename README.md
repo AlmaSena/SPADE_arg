@@ -5,9 +5,9 @@
 
 SPADE-argumentative is a plugin that extends the reasoning capabilities of SPADE (Smart Python Agent Development Environment) by integrating argument mining techniques and argumentative debate. It implements a multi-agent system in which autonomous agents exchange arguments from opposing perspectives to explore a question, evaluate different viewpoints, and synthesise the resulting discussion into a single, coherent answer.
 
-* [GitHub](https://github.com/AlmaSena/SPADE_arg/) | [PyPI](https://pypi.org/project/SPADE_arg/) | [Documentation](https://AlmaSena.github.io/SPADE_arg/)
-* Created by [Alma Sena](https://github.com/AlmaSena) | GitHub [@AlmaSena](https://github.com/AlmaSena) | PyPI [@AlmaSena](https://pypi.org/user/AlmaSena/)
-* MIT License
+# * [GitHub](https://github.com/AlmaSena/SPADE_arg/) | [PyPI](https://pypi.org/project/SPADE_arg/) | [Documentation](https://AlmaSena.github.io/SPADE_arg/)
+# * Created by [Alma Sena](https://github.com/AlmaSena) | GitHub [@AlmaSena](https://github.com/AlmaSena) | PyPI [@AlmaSena](https://pypi.org/user/AlmaSena/)
+# * MIT License
 
 ## Features
 
