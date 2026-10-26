@@ -1,42 +1,26 @@
-# SPADE-argumentative
+# SPADE Argumentative
 
-[![PyPI version](https://img.shields.io/pypi/v/SPADE_arg.svg)](https://pypi.org/project/SPADE_arg/)
-[![PyPI downloads](https://static.pepy.tech/badge/SPADE_arg/month)](https://pepy.tech/projects/SPADE_arg)
+.. image:: https://img.shields.io/badge/pypi-v0.0.0-orange
+.. image:: https://img.shields.io/badge/python-3.11|3.12|3.13|3.14-blue
+.. image:: https://img.shields.io/badge/languages-2-blue
 
-SPADE-argumentative is a plugin that extends the reasoning capabilities of SPADE (Smart Python Agent Development Environment) by integrating argument mining techniques and argumentative debate. It implements a multi-agent system in which autonomous agents exchange arguments from opposing perspectives to explore a question, evaluate different viewpoints, and synthesise the resulting discussion into a single, coherent answer.
 
-// * [GitHub](https://github.com/AlmaSena/SPADE_arg/) | [PyPI](https://pypi.org/project/SPADE_arg/) | [Documentation](https://AlmaSena.github.io/SPADE_arg/)
-// * Created by [Alma Sena](https://github.com/AlmaSena) | GitHub [@AlmaSena](https://github.com/AlmaSena) | PyPI [@AlmaSena](https://pypi.org/user/AlmaSena/)
-// * MIT License
+SPADE Argumentative is a plugin that extends the reasoning capabilities of SPADE (Smart Python Agent Development Environment) by integrating argument mining techniques and argumentative debate. It implements a multi-agent system in which autonomous agents exchange arguments from opposing perspectives to explore a question, evaluate different viewpoints, and synthesise the resulting discussion into a single, coherent answer.
+
+## Purpose and Scope
+
+* Free software: MIT license
+* Web: https://spadeagents.eu/plugins/...
+* Documentation: link por hacer
+* SPADE: https://spadeagents.eu
 
 ## Features
 
-* TODO
 
-## Installation
 
-```bash
-uv add SPADE_arg
-```
+## Credits
 
-## Usage
+This package was created with Cookiecutter_ and the `audreyr/cookiecutter-pypackage`_ project template.
 
-```python
-import SPADE_arg
-```
-
-## Documentation
-
-Full documentation is available on
-[GitHub Pages](https://AlmaSena.github.io/SPADE_arg/).
-
-## Contributing
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for development setup, testing, and
-documentation instructions.
-
-## Author
-
-SPADE-argumentative was created in 2026 by Alma Sena.
-
-Built with [Cookiecutter](https://github.com/cookiecutter/cookiecutter) and the [audreyfeldroy/cookiecutter-pypackage](https://github.com/audreyfeldroy/cookiecutter-pypackage) project template.
+.. _Cookiecutter: https://github.com/audreyr/cookiecutter
+.. _`audreyr/cookiecutter-pypackage`: https://github.com/audreyr/cookiecutter-pypackage
